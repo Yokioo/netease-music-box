@@ -16,6 +16,6 @@ jobs:
         uses: ./
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/Yokioo/c1b2767982633b17b4958c0189282a72
+          GIST_ID: https://gist.github.com/Yokioo/dc2dbce45ba6cae6173197eac36e31e0
           USER_ID: 14306292
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
